@@ -173,3 +173,4 @@ def days_since_bday(birthday):
 print(days_since_bday("02-02-2005"))  # Output will show days passed from the years 2005 to 2024
 
 #Question 10
+https://github.com/domms2057/midterm/blob/main/midterm.py
